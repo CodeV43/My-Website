@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> My Webpage </title>
+<link rel="stylesheet" href="style.css">
+<link rel="png" type="image/png" href="flowerbird (1).png">
+<link rel="icon" type="image/x-icon" href="flowerbird (1).png">
+ </head>
+<body style="background-color:powderblue;">
+  <div class="grid-container">
+   <header class="grid-item header"> 
+    <center>My Personal Webpage<br>
+  In this site you will join me on my voyage to becoming a developer.</center>
+  </header>
+<button class="btn"><i class="fa fa-home"></i> Home</button>
+<button class="btn"><i class="fa fa-bars"></i> Menu</button>
+<button class="btn"><i class="fa fa-folder"></i> Folder</button> <br>
+  <section class="section fade-in"> 
+    <img alt="code-image" src="code-image.jpg"/ width="100%">
+  </section>
+  </header>
+  <main class="grid-item main"> <article>
+	<h2>About Me</h2>
+  <p>
+  <img alt="Bizwoman" src="Bizwoman.jpg"/ width="128" 
+  style="float:right">
+  <p>
+   This is a small introduction in to who I am as the creator of this webpage. I am Vanessa Rendel. 
+   I currently, work for Amazon fulfilment Center as FC Associate. Through my employer I was able to enroll in correlation-one.
+    Where I am studying web/software development. Prior to working at Amazon I have a variety of background in retail, customer service, healthcare, and community service.
+     I currently hold a bachelors degree in Arts for Social Work and prior to beginning, I gained a certification for Mechatronics. I like to keep busy and be able to adapt to the times, whether it be people or workforce. <br>
+   In my spare time, when I am not working or in school.
+ You can find me outside gardening or walking trails in my area. 
+ I love to travel no place to big or small, close or far an adventure is an adventure.
+  I enjoy cooking, painting, listening to music and binge watching movies. 
+  Whether riding solo or enjoying the company of good family and friends, I love to live life for the moment. 
+  This site is to showcase my lessons and events learned (School, Work and Personal life) 30 years around the sun.<br>
+  For more information on my educational and job history.<br>
+  Click on these links:<br>
+  <a href="https://www.linkedin.com/in/vanessa-rendel-64744540">LinkedIn</a> <br>
+  <a href="https://profile.indeed.com/p/vanessar-66rb08v">Indeed</a> <br>
+    <a href="https://www.correlation-one.com/" target="_blank">Correlation One</a>
+ </p>
+  <h2> My Journey </h2>
+  <p>Before enrolling into this program I had no prior tech skills, I didint even really know what coding was.
+     In the beginning was tough and is still a little difficult at times but after sticking to it. 
+     I can honestly say I rather enjoying learn all this new and different skills. 
+     My confidence as grown and continues to grow with each completed section. 
+     It takes my a little longer than the rest but it is well worth the effort, just to see my results. 
+     My favorite part is being able to implement was I learned in my assignments. 
+     I can use; tables, image maps, change background colors, change the page format, connect links from different sources and so much more.<br>
+</article> </main>
+  <footer class="grid-item footer"> <center>
+    <h3>
+      <b>Contact</b> </h3>
+	<form action="/example_action.html">
+        <label for="fname">First Name: </label><br>
+        <input type="text" id="fname" name="Jane"><br><br>
+        <label for="lname">Last Name: </label><br>
+        <input type="text" id="lname" name="Doe"><br><br>
+        <label for="lemail">Email: </label><br>
+        <input type="email" id="lemail" name="Email"><br><br>
+        <input type="button" onclick="window.location.href='https://www.correlation-one.com/';" value="Submit" />
+    </form>
+</footer></center>
+<p>Creator: Vanessa Rendel &copy; </p>
+  <p><a href="mailto:vrendel@gmail.com">vrendel@gmail.com</a></p>
+  </div>
+</body>
+</html>
+
+
+<!-- WRITE YOUR CODE HERE -->
