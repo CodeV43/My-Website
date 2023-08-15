@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0 mywebsite, homepage, contact, products, java,html,code,css>">
+<title> My Webpage </title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="mywebsite.css">
+<link rel="png" type="image/png" href="flowerbird (1).png">
+<link rel="icon" type="image/x-icon" href="flowerbird (1).png">
+ </head>
+</html>
+<body style="background-color:powderblue;">
+  <div class="grid-container">
+   <header class="grid-item header"> 
+   </header>
+ <div class="nav-menu"> 
+<button class="btn"><i class="fa fa-home"></i> <a class="active" href="index.html">Home</a>
+</button>
+<button class="btn"><i class="fa fa-bars"></i><a href="about-us.html">About Us</a> </button>
+<button class="btn"><i class="fa fa-folder"></i> <a href="contact-us.html">Contact Us</a></button>
+<button class="btn"><i class="fa fa-products"></i><a href="products/single-products.html">Products</a> </button>
+ <br>
+</div>
+   </header>
+  <main class="grid-item main"> <article>
+  <footer class="grid-item footer"> <center>
+    <h3><b>Contact Us
+      </b> </h3>
+	<form action="/example_action.html">
+        <label for="fname">First Name: </label><br>
+        <input type="text" id="fname" name="Jane"><br><br>
+        <label for="lname">Last Name: </label><br>
+        <input type="text" id="lname" name="Doe"><br><br>
+        <label for="lemail">Email: </label><br>
+        <input type="email" id="lemail" name="Email"><br><br>
+        <input type="button" onclick="window.location.href='https://www.correlation-one.com/';" value="Submit" />
+    </form>
+</footer></center>
+<p>Creator: Vanessa Rendel &copy; </p>
+  <p><a href="mailto:vrendel@gmail.com">vrendel@gmail.com</a></p>
+  </div>
+</body>
+</html>
+
+
+<!-- WRITE YOUR CODE HERE -->
